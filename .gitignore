@@ -1,0 +1,8 @@
+**.pth
+**.pyc
+**.gz
+data_batch**
+**.meta
+test_batch
+**.html
+
